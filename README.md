@@ -1,4 +1,4 @@
-# QuickstartMousetracking
+# Quickstart Mousetracking
 
 This repository provides (almost)
 everything you need to get started
