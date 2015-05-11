@@ -30,7 +30,7 @@ To do this, you'll need to have a few things installed:
 
 - An interpreter for the [python](https://www.python.org/about/) programming language.
 - The SciPy set of python scientific packages. The easiest way to install all of these on Windows is to download the [anaconda scientific pyton distribution](https://store.continuum.io/cshop/anaconda/), which is a version of python which comes with almost all of the scientific tools you could need preinstalled.
-- [Squeak](www.github.com/eointravers/squeak/), my python package for
+- [Squeak](http://github.com/eointravers/squeak/), my python package for
   processing mouse data. The easiest way to install this is to type `pip install squeak` at the command prompt.
 
 Finally, a note on usability: I've tried to make all of this as
