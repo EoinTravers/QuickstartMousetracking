@@ -12,7 +12,9 @@ tracking experiment implemented using the
 OpenSesame experiment builder,
 which you can install [from here](http://osdoc.cogsci.nl).
 You can also see my tutorial on mousetracking in OpenSesame
-[here](http://eointravers.github.io/blog/2014/03/os-mousetracking/)
+[here](http://eointravers.github.io/blog/2014/03/os-mousetracking/).
+Note that you'll need to adjust the experiment's screen resolution in OpenSesame
+if your monitor is different to mine.
 
 Data Analysis
 -------------
