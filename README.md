@@ -10,7 +10,7 @@ Data Collection
 The `procedure` directory contains a temlate for a simple mouse
 tracking experiment implemented using the
 OpenSesame experiment builder,
-which you can install [from here](osdoc.cogsci.nl).
+which you can install [from here](http://osdoc.cogsci.nl).
 You can also see my tutorial on mousetracking in OpenSesame
 [here](http://eointravers.github.io/blog/2014/03/os-mousetracking/)
 
