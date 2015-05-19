@@ -5,7 +5,10 @@ everything you need to get started
 at mouse tracking research using python/OpenSesame.
 
 
-    Beginner's tip: Download this entire project as a zip file using the button to the right. --> --> -->
+    -->  -->  -->  -->  -->  -->  -->  -->  -->  -->  -->  
+    Beginner's tip: Download this entire project as a
+    zip file using the button to the right. 
+    -->  -->  -->  -->  -->  -->  -->  -->  -->  -->  -->  
 
 Data Collection
 ---------------
