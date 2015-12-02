@@ -1,5 +1,6 @@
 @echo off
-    
+
+rem Change this variable to match where ever OpenSesame, and specifically opensesamerun.exe, is installed on your system.
 set opensesame=C:\Users\40027000\Desktop\Software\OpenSesame\opensesame_2.8.3-win32-1\opensesamerun.exe
 
 rem Read subject number from the file subject_nr.txt    

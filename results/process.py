@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+
+print "\nProcessing..."
+
 import os 
 import glob
 
@@ -20,7 +23,7 @@ print "%i files found:" % len(datafiles)
 print '\n'.join(datafiles)
 
 
-print "\nProcessing..."
+
 data = pd.concat(
     [pd.DataFrame(pd.read_csv(datafile)) 
      for datafile in datafiles])
