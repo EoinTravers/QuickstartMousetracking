@@ -16,7 +16,7 @@ if not exist %~dp0data mkdir %~dp0data
 
 rem Run experiment, with set subject number, and save location, in fullscreen mode    
 echo Starting experiment...
-%opensesame% %~dp0experiment.opensesame -s %subject_nr% ^
+%opensesame% %~dp0Experiment.osexp -s %subject_nr% ^
     -l %~dp0data\subject_%subject_nr%.csv -f > NUL
 
 echo Experiment complete!

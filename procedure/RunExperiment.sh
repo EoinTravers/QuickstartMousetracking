@@ -9,7 +9,7 @@ if [ ! -d data ]; then
 fi
 
 echo "Starting experiment..."
-opensesamerun experiment.opensesame -s $subject_nr -l "data/subject_$subject_nr.csv" -f
+opensesamerun Experiment.osexp -s $subject_nr -l "data/subject_$subject_nr.csv" -f
 
 echo Experiment complete!
 echo Goodbye.
